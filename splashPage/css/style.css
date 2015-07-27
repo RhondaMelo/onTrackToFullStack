@@ -1,0 +1,70 @@
+/*these are the tiles for the splash page these are just the the colors for row one. The colors for the rows below have not been decided yet. 
+The colors for the ext tiles will be filled in when  more projects come in. I have not deided on the sizes of the swquares for the next or the 
+colors to be used*/
+
+
+#red
+{background-color: #FF0000 ;
+	height: 200px;
+	width: 20%;
+
+}
+#red:hover { 
+    background-color: #FF33FF;
+}
+
+
+#purple
+{background-color: #6600CC;
+	height: 200px;
+	width: 20%;
+
+}
+#purple:hover { 
+    background-color: #9900CC;
+}
+
+
+
+#yellow
+{background-color: #FFFF00;
+	height: 200px;
+	width: 20%;
+
+}
+#yellow:hover { 
+    background-color: #99FF66;
+}
+
+
+
+#green
+{background-color: #339900;
+height:200px;
+width:20%;
+p
+
+}
+#green:hover { 
+    background-color: #33FFCC;
+}
+
+
+
+
+#blue
+{background-color: #0000CC;
+height:200px;
+width:20%;
+
+}
+#blue:hover { 
+    background-color: #330099;
+}
+
+
+div{
+	transition: 2s;
+	 float: left;
+
+}

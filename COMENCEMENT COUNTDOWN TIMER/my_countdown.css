@@ -1,0 +1,110 @@
+                          
+/*  pics by Rhonda Melo */
+/* timejquery plugin is found at hht://keith-wood.name/countdown.html*/
+
+
+/* google font choice */
+
+@import url(http://fonts.googleapis.com/css?family=Teko:300,700);
+
+/*setting the back ground color and the type.
+the bagground color is to stay a rich crimson as it goes with the havrard colors */
+
+body { margin: 0; padding: 0; background-color: #200000 ; color: #fff; }
+
+ /* the rules below are targeting the outer most contained. The world premier container . pic at 800 px so it is ample but not too big.min height  for the px is 
+ to ensure you get to see the whole height of the image in this case the shoe pic*/
+
+#world-premiere{
+	font-size: 16px;
+	font-family: 'Teko', sans-serif;
+	width: 800px;
+	margin: 25px auto;
+	border: 1px solid rgba(255,255,255,.2);
+	background: #180000  url(classof2016.jpg) no-repeat center bottom;
+	min-height: 800px;
+}
+
+
+/* we are goign to set the margin left  so that the very first letter in the word will look optically more aligned with 
+the h2 tag that will be styled next */
+
+#world-premiere .heading{
+	background-color: rgba(0,0,0,.5);
+	padding: 15px 0px 2px 0px;
+	margin: 0px 0px 30px 0px;
+}
+
+
+#world-premiere h1{
+	font-size: 4.2em;
+	color: #ffffff;
+	text-transform: uppercase;
+	font-weight: 300;
+	line-height: 70px;
+	margin: 0px 0px 0px -5px;
+	padding: 0px;
+	text-align: center;
+}
+
+#world-premiere h2{
+	font-size: 1.5em;
+	color: #CC9933;
+	text-transform: uppercase;
+	font-weight: 700;
+	line-height: 18px;
+	margin: 0px 0px 0px 0px;
+	padding: 0px;
+	text-align: center;
+	letter-spacing: 9px;
+}
+
+
+#world-premiere .my-countdown .countdown-row { display: block; text-align:center;}
+
+#world-premiere .my-countdown .countdown-section { display: inline-block; width: 95px;}
+
+#world-premiere .my-countdown .countdown-amount { display: block; color: #FFFFCC; font-size: 5.6em; line-height: 55px;}
+
+#world-premiere .my-countdown .countdown-period { display: block; color: #FFCC33; font-size: 1.4em; text-transform: uppercase; letter-spacing: 2px;}
+
+ 
+
+ /* making the design responsive requires adding the media query 
+ you want to target each container. you also target the heading and the h1 and h2 tags for making the 
+ the site responsive*/
+
+
+ @media screen and (max-width: 525px){
+
+#world-premiere{
+	font-size: 12px;
+	width: 300px;
+	min-height: 465px;
+	background-size:  400px auto;
+
+   }
+
+#world-premiere .heading{
+	padding: 12px 0px 8px 0px;
+	margin-bottom: 20px;
+}
+
+#world-premiere h1 {
+	line-height: 40px;
+	font-size: 3.7em;
+}
+
+
+#world-premiere h2 {
+	line-height: 22px;
+	letter-spacing: 5px;
+}
+
+#world-premiere .my-countdown .countdown-section {
+	width: 68px;
+	l
+ }
+
+
+
