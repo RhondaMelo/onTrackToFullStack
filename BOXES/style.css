@@ -1,0 +1,255 @@
+
+h1 {
+    text-align:center;
+    font-family:'Nothing You Could Do', cursive;
+    padding:10px;
+    text-shadow:1px 1px #333;
+    background-color:#000;
+    color:#fff;
+}
+
+
+
+
+#Bittersweet
+{background-color: #FF0000 ;
+	height: 200px;
+	width: 20%;
+
+}
+#Bittersweet:hover { 
+    background-color: #FE6F5E;
+}
+
+
+#Fashion_Fuchsia
+{background-color: #FF0000;
+	height: 200px;
+	width: 20%;
+
+}
+#Fashion_Fuchsia:hover { 
+    background-color: #F400A1;
+}
+
+
+#Alizarin_Crimson
+{background-color: #FF0000;
+	height: 200px;
+	width: 20%;
+
+}
+#Alizarin_Crimson:hover { 
+    background-color: #E32636;
+}
+
+
+#Carnation_Pink
+{background-color: #FF0000;
+height:200px;
+width:20%;
+
+
+}
+#Carnation_Pink:hover { 
+    background-color: #FFA6C9;
+}
+
+
+
+
+#Bubble_Gum
+{background-color: #FF0000;
+height:200px;
+width:20%;
+
+}
+#Bubble_Gum:hover { 
+    background-color: #FFC1CC;
+}
+
+
+
+#Fluorescent_Orange
+{background-color: #FF0000;
+height:200px;
+width:20%;
+
+}
+#Fluorescent_Orange:hover { 
+    background-color: #FFBF00;
+}
+
+
+
+#Deep_Saffron
+{background-color: #FF0000;
+height:200px;
+width:20%;
+
+}
+
+#Deep_Saffron:hover { 
+    background-color: #FF9933;
+}
+
+
+#Dark_Tangerine
+{background-color: #FF0000;
+height:200px;
+width:20%;
+
+}
+
+#Dark_Tangerine:hover { 
+    background-color: #FFA812;
+}
+
+
+
+#Coquelicot
+{background-color: #FF0000;
+height:200px;
+width:20%;
+
+}
+
+#Coquelicot:hover { 
+    background-color: #FF3800;
+}
+
+#Deep_Carrot_Orange
+{background-color: #FF0000;
+height:200px;
+width:20%;
+
+}
+
+#Deep_Carrot_Orange:hover { 
+    background-color: #E9692C;
+}
+
+#Dark_Turquoise
+{background-color: #FF0000;
+height:200px;
+width:20%;
+
+}
+
+#Dark_Turquoise:hover { 
+    background-color: #00CED1;
+}
+
+#Dark_Blue
+{background-color: #FF0000;
+height:200px;
+width:20%;
+
+}
+
+#Dark_Blue:hover { 
+    background-color: #00008B;
+}
+
+#Diamond
+{background-color: #FF0000;
+height:200px;
+width:20%;
+
+}
+
+#Diamond:hover { 
+    background-color: #B9F2FF;
+}
+
+#Denim
+{background-color: #FF0000;
+height:200px;
+width:20%;
+
+}
+
+#Denim:hover { 
+    background-color: #1560BD;
+}
+
+
+#Electric_Blue
+{background-color: #FF0000;
+height:200px;
+width:20%;
+
+}
+
+#Electric_Blue:hover { 
+    background-color: #7DF9FF;
+}
+
+#Ao
+{background-color: #FF0000;
+height:200px;
+width:20%;
+
+}
+
+#Ao:hover { 
+    background-color: #008000;
+}
+
+#Android_Green
+{background-color: #FF0000;
+height:200px;
+width:20%;
+
+}
+
+#Android_Green:hover { 
+    background-color: #A4C639;
+}
+
+#Arctic_Lime
+{background-color: #FF0000;
+height:200px;
+width:20%;
+
+}
+
+#Arctic_Lime:hover { 
+    background-color: #D0FF14;
+}
+
+
+
+#Bangladesh_Green
+{background-color: #FF0000;
+height:200px;
+width:20%;
+
+}
+
+#Bangladesh_Green:hover { 
+    background-color: #006A4E;
+}
+
+
+#Aquamarine
+{background-color: #FF0000;
+height:200px;
+width:20%;
+
+}
+
+#Aquamarinen:hover { 
+    background-color: #7FFFD4;
+}
+
+
+
+
+
+
+div{
+	transition: 3s;
+	 float: left;
+
+}
