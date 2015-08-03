@@ -12,8 +12,9 @@ the bagground color is to stay a rich crimson as it goes with the havrard colors
 
 body { margin: 0; padding: 0; background-color: #200000 ; color: #fff; }
 
- /* the rules below are targeting the outer most contained. The world premier container . pic at 800 px so it is ample but not too big.min height  for the px is 
- to ensure you get to see the whole height of the image in this case the shoe pic*/
+ /* the rules below are targeting the outer most container. The world premier container .
+ To make sure we have enough room for the type above the photograph we need to set a minimum height
+ of the count down. The min-heght is the sie of the photograph that you brough in.*/
 
 #world-premiere{
 	font-size: 16px;
