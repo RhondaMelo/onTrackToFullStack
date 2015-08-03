@@ -29,8 +29,7 @@ body { margin: 0; padding: 0; background-color: #200000 ; color: #fff; }
 }
 
 
-/* we are goign to set the margin left  so that the very first letter in the word will look optically more aligned with 
-the h2 tag that will be styled next */
+
 
 #world-premiere .heading{
 	background-color: rgba(0,0,0,.5);
@@ -38,6 +37,8 @@ the h2 tag that will be styled next */
 	margin: 0px 0px 30px 0px;
 }
 
+/* the h1 margin left was set at -5 so that the alignment will be better. the key is to have the h1
+heading look optically more aligned witht he h2 tag that will be styled after */
 
 #world-premiere h1{
 	font-size: 4.2em;
