@@ -14,7 +14,9 @@ body { margin: 0; padding: 0; background-color: #200000 ; color: #fff; }
 
  /* the rules below are targeting the outer most container. The world premier container .
  To make sure we have enough room for the type above the photograph we need to set a minimum height
- of the count down. The min-heght is the sie of the photograph that you brough in.*/
+ of the count down. The min-heght is the sie of the photograph that you brough in. So if you add more content inside 
+ of the div container it will continue to grow beyond the min px amount if you need the room but it won't collapse
+ lower than the min amount in the large state.*/
 
 #world-premiere{
 	font-size: 16px;
